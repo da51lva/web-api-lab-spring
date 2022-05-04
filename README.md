@@ -1,2 +1,5 @@
-# web-api-lab-spring
-A lab exercise in building a web api using spring boot
+# Web Api Lab 
+
+This repo contains a lab exercise in learning how to build a simple web api using spring boot.
+
+From the [Tech Returners](https://www.techreturners.com) course.
